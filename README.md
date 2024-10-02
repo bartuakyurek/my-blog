@@ -6,3 +6,7 @@ good programming practices.
 
 
 Thanks for checking it out! 
+
+> [!IMPORTANT]
+> This is not an official blog. I'm testing what I've learned so far.
+> Including this new markdown thing that looks so flashy! /hj
