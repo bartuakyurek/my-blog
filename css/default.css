@@ -1,5 +1,14 @@
 
 
 body {
-    background-color: #bec0b7;
+    background-color: rgb(232, 223, 211);
   }
+
+.header{
+  color: greenyellow;
+  background-color: darkblue;
+  padding-left: 5px;
+  padding-top: 5px;
+  padding-bottom: 1px;
+  text-align: left;
+}
